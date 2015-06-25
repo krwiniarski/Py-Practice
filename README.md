@@ -1,2 +1,2 @@
 # Py-Practice
-A collection of programs I've created while learning Python
+A collection of small programs I've created while learning different aspects of Python
